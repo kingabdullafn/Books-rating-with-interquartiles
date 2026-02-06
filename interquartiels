@@ -1,0 +1,7 @@
+Quartiles in book ratings
+
+When book ratings are arranged in order from the lowest to the highest, quartiles divide the ratings into four equal parts. The first quartile (Q1) represents the rating below which 25% of the books fall, meaning one quarter of the books have relatively low ratings. The second quartile (Q2) is the median rating, which shows the middle value of all book ratings and indicates the typical reader response. The third quartile (Q3) marks the point below which 75% of the book ratings lie, showing that most books have ratings at or below this level. Quartiles help us understand how book ratings are distributed and whether most books are rated poorly, moderately, or highly.
+
+Interquartile range (IQR) in book ratings
+
+The interquartile range (IQR) is the difference between the third quartile (Q3) and the first quartile (Q1) and measures the spread of the middle 50% of book ratings. In the context of book ratings, the IQR shows how consistent readers are in their opinions of books, ignoring extremely low or extremely high ratings. A small IQR suggests that most readers rate books similarly, indicating consistent quality or agreement among readers. A large IQR, on the other hand, shows that book ratings vary widely, meaning readers have mixed opinions about the books. The IQR is especially useful because it is not affected by outlier ratings, such as a few very unpopular or exceptionally popular books.
